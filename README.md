@@ -1,6 +1,6 @@
 # Data Structure II
 
-### Repository for the Algorithms and Data Structure II discipline at the Department of Computer Engineering and Automation at UFRN, containing all lessons and projects carried out during the semester of the course. Subject taught by Professor Ivanovitch.
+### Repository for the Algorithms and Data Structure II discipline at the Department of Computer Engineering and Automation at UFRN, containing all lessons and projects carried out during the semester of the course. Subject taught by Professor [Ivanovitch](https://github.com/ivanovitchm).
 
 ## 1st Unity:
 
